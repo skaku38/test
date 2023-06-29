@@ -1,9 +1,9 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="HONEYSUCKLES!!!!!!!"
-       source image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Honeysuckle_flowers.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/4/4b/Honeysuckle_flowers.jpg"
+       title="lonicera azalea"
+       source image="[https://upload.wikimedia.org/wikipedia/commons/4/4b/Honeysuckle_flowers.jpg](https://upload.wikimedia.org/wikipedia/commons/5/56/Honeysuckle_azalea_%2815454679690%29.png)"
+       banner="[https://upload.wikimedia.org/wikipedia/commons/4/4b/Honeysuckle_flowers.jpg](https://upload.wikimedia.org/wikipedia/commons/5/56/Honeysuckle_azalea_%2815454679690%29.png)"
        author="Siya Kakumanu"
        layout="vertical">
 
