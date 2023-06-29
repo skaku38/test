@@ -2,6 +2,8 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
+       source image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Honeysuckle_flowers.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/4/4b/Honeysuckle_flowers.jpg"
        author="Siya Kakumanu"
        layout="vertical">
 
