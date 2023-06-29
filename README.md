@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
-       author="Lucas Mertehikian"
+       author="Siya Kakumanu"
        layout="vertical">
 
 ### Introduction
