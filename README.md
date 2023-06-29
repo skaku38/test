@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="lonicera azalea"
-       source image="[(https://upload.wikimedia.org/wikipedia/commons/5/56/Honeysuckle_azalea_%2815454679690%29.png)]"
-       banner="[(https://upload.wikimedia.org/wikipedia/commons/5/56/Honeysuckle_azalea_%2815454679690%29.png)]"
+       source image="[[(https://upload.wikimedia.org/wikipedia/commons/5/56/Honeysuckle_azalea_%2815454679690%29.png)]](https://upload.wikimedia.org/wikipedia/commons/b/b7/Lonicera_ciliosa_13310.JPG)"
+       banner="[[(https://upload.wikimedia.org/wikipedia/commons/5/56/Honeysuckle_azalea_%2815454679690%29.png)]](https://upload.wikimedia.org/wikipedia/commons/b/b7/Lonicera_ciliosa_13310.JPG)"
        author="Siya Kakumanu"
        layout="vertical">
 
