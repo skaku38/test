@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Yerba Mate: From Sacred Drink to Caffeinated Star"
+       title="HONEYSUCKLES!!!!!!!"
        source image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Honeysuckle_flowers.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/4/4b/Honeysuckle_flowers.jpg"
        author="Siya Kakumanu"
