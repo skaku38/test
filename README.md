@@ -20,7 +20,7 @@
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 
-## Showing Plant Specimen
+### Showing Plant Specimen
 
 <param ve-plant specimen jpid="10.5555/al.ap.specimen.l0001583">
 
