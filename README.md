@@ -22,7 +22,7 @@
 
 ### Showing Plant Specimen
 
-<param ve-plant specimen jpid="10.5555/al.ap.specimen.l0001583">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.l0001583">
 
 
 
