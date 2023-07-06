@@ -14,7 +14,7 @@
        
 <param ve-image labele="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Honeysuckle_redoute.JPG">
 
-<param ve-video vid="o0y5Z8_tefY">
+<param ve-video vid="yxd04rkspeg">
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q60235" title="caffeine">
 <param ve=entity eid="Q200656" title="diuretic">
