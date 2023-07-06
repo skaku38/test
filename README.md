@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="lonicera azalea"
-       source image="https://upload.wikimedia.org/wikipedia/commons/2/27/Wii_sports_resort_logo.svg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/2/27/Wii_sports_resort_logo.svg"
+       source image="https://upload.wikimedia.org/wikipedia/commons/1/18/Lonicera_japonica%2C_2021-10-02%2C_South_Side.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/1/18/Lonicera_japonica%2C_2021-10-02%2C_South_Side.jpg"
        author="Siya Kakumanu"
        layout="vertical">
 
