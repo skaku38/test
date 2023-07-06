@@ -24,6 +24,6 @@
 This specimen shows an herbarium specimen of lonicera. 
 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.l0001583">
-
+<param ve-iframe src="https://archive.org/details/honeysucklebusht1927perr/page/n1/mode/2up?view=theater">
 
 
