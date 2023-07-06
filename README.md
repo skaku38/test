@@ -14,12 +14,15 @@
        
 <param ve-image labele="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Honeysuckle_redoute.JPG">
 
-<param ve-plant specimen jpid="10.5555/al.ap.specimen.l0001583">
-
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q60235" title="caffeine">
 <param ve=entity eid="Q200656" title="diuretic">
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
+
+## Showing Plant Specimen
+
+<param ve-plant specimen jpid="10.5555/al.ap.specimen.l0001583">
+
 
 
