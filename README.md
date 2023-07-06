@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="lonicera azalea"
+       title="Lonicera"
        source image="https://upload.wikimedia.org/wikipedia/commons/1/18/Lonicera_japonica%2C_2021-10-02%2C_South_Side.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/1/18/Lonicera_japonica%2C_2021-10-02%2C_South_Side.jpg"
        author="Siya Kakumanu"
