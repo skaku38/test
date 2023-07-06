@@ -16,7 +16,6 @@
 
 <param ve-plant specimen jpid="10.5555/al.ap.specimen.l0001583">
 
-<param ve-video vid="yxd04rkspeg">
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q60235" title="caffeine">
 <param ve=entity eid="Q200656" title="diuretic">
