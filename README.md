@@ -12,8 +12,9 @@
 
 <param ve-image url="Lonicera_ciliosa_13310.jpeg" label="lonicera ciliosa">
        
-<param ve-image label="Shrek is cool" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Shrek_%26_Fiona_like_their_subjects_%28cropped%29.jpg" region="-18,36,278,213"> 
 <param ve-image labele="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Honeysuckle_redoute.JPG">
+
+<param ve-video vid="o0y5Z8_tefY&ab_channel=BBCReel">
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q60235" title="caffeine">
 <param ve=entity eid="Q200656" title="diuretic">
