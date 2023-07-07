@@ -12,7 +12,7 @@
 
 <param ve-image url="Lonicera_ciliosa_13310.jpeg" label="lonicera ciliosa">
        
-<param ve-image labele="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Honeysuckle_redoute.JPG">
+<param ve-image label="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/4/4c/Honeysuckle_redoute.JPG">
 
 <param ve-vid="SBCRB2qhfUI">
 
