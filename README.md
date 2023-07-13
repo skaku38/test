@@ -35,4 +35,14 @@ This specimen shows an herbarium specimen of lonicera.
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.l0001583">
 <param ve-iframe src="https://archive.org/details/honeysucklebusht1927perr/page/n3/mode/2up?view=theater">
 
+### Adding a Timeline
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<param ve-knightlab-timeline
+source="12sbKgRpNrLd_fJRTzJxIVEW74NQsavvslRTW6SnG6VI"
+timenav-position="bottom"
+hash-bookmark="false”
+initial-zoom="1"
+height="750">
+
+
 
