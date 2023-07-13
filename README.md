@@ -13,9 +13,7 @@
 <param ve-compare 
 	curtain="true"
 url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Gianlorenzo_bernini%2C_apollo_e_adfne%2C_marmo%2C_1622-25%2C_03.jpg"
-label="Apollo and Daphne" 
-description="sculpture by Gian Lorenzo Bernini"
-license="CC BY-SA 4.0">
+label="Shrek">
 <param ve-compare 
 url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gianlorenzo_bernini%2C_apollo_e_adfne%2C_marmo%2C_1622-25%2C_05.jpg"
 label="Apollo and Daphne" 
