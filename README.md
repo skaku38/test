@@ -37,7 +37,7 @@ height="750">
 
 ### Using a Map
 The following shows a map
-<param ve-map="Native Range" center="38.929530437295604, -77.06948641718103" zoom="6">
+<param ve-map="Native Range" center="38.929530437295604, -77.06948641718103" zoom="14">
 
 
 
