@@ -36,7 +36,7 @@ initial-zoom="1"
 height="750">
 
 ### Using a Map
-The following shows a map
+The following shows a map of <span data-mouseover-map-flyto="38.907159176669694, -77.03867320046143, zoom="14">downtown DC</span>
 <param ve-map="Native Range" center="38.929530437295604, -77.06948641718103" zoom="6">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/skaku38/test/main/map1.json">
 
