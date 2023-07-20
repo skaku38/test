@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#cf50c858-2e32-48c9-ace3-892da6cd3fc3"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "phoenix dactylifera leaves",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/3ff7851de9854eec86d4d64fb97b8e29e8685782283a852b36942dcba732b940",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:288.9065856933594,1111.9373779296875,586.8590393066406,513.02685546875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#736306a2-b7e9-4eb3-9d6f-c8c849048eaa"
   }
 ]
