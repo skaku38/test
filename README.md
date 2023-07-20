@@ -20,7 +20,7 @@ label="Apollo and Daphne"
 description="sculpture by Gian Lorenzo Bernini"
 license="CC BY-SA 4.0 ">
 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/43/Snoopy_and_Woodstock_in_the_Starry_Night_With_Sunset_End.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Phoenix_dactylifera_Daktylowiec_w%C5%82a%C5%9Bciwy_2023-02-24_07.jpg">
 
 <param ve-vid="SBCRB2qhfUI">
 
