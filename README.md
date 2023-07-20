@@ -35,7 +35,8 @@ hash-bookmark="false”
 initial-zoom="1"
 height="750">
 
-### Using a Map 
+### Using a Map
+The following shows a map
 <param ve-map>
 
 
